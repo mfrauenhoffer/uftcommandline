@@ -5,7 +5,7 @@ A common question we get is how to exceute UFT tests via a Windows Command Line.
 
 Open a Windows Command Prompt (or Powershell) and execute this command:
 
-`cscript <path_to_vbs_file>\run_uft_tests.vbs *directory-of-tests-to-run* [-flags]`
+`cscript <path_to_vbs_file>\run_uft_tests.vbs directory-of-tests-to-run [-flags]`
 
 ## Flags
 
